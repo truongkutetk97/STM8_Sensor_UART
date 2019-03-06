@@ -1,0 +1,15 @@
+Added Component: Designator=LED2(SM-LED-0805-Blue)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R2(SM-RES-0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "R1/4W - 1K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=5V Pin=R2-2
+Added Pin To Net: NetName=NetLED2_1 Pin=LED2-1
+Added Pin To Net: NetName=NetLED2_1 Pin=R2-1
+Added Net: Name=NetLED2_1
+Added Pin To Net: NetName=PD10 Pin=LED2-2
+Added Net: Name=PD10
+Added Pin To Net: NetName=PD11 Pin=IC1-10
+Added Net: Name=PD11
+Added Member To Class: ClassName=Sheet1 Member=Component LED2 LED SMD
+Added Member To Class: ClassName=Sheet1 Member=Component R2 1k

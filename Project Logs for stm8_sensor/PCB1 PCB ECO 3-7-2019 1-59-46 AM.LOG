@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=PD16 Pin=LED4-2
+Removed Pin From Net: NetName=PD15 Pin=LED5-2
+Added Pin To Net: NetName=PD15 Pin=LED4-2
+Added Pin To Net: NetName=PD16 Pin=LED5-2
+Added Member To Class: ClassName=Sheet1 Member=Component R2 1k

@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=5V Pin=R3-2
+Removed Member From Class: ClassName=Sheet1 Member=R3
+Added Component: Designator=3434(RES-SMD-1206)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=5V Pin=3434-1
+Added Pin To Net: NetName=Net3434_2 Pin=3434-2
+Added Pin To Net: NetName=Net3434_2 Pin=LED3-1
+Added Net: Name=Net3434_2
+Added Member To Class: ClassName=Sheet1 Member=Component 3434 Res
+Added Member To Class: ClassName=Sheet1 Member=Component R2 1k
